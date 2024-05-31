@@ -9,6 +9,7 @@ un blog increible para ti el curso de git y git hub de platzi
  - El verdadero amor por las buenas practicas 
  - Trucos muy locos del profesor 
  - Las personalidades multiples de Freddy
+ - creado por platzi team 
  
  y como un hamable recordatorio: ** Este redme.md es un chiste ** Diseñado para el ejemplo. SI LLEGASTE HASTA ACÀ NO TE LO TOMES ENSERIO.
  
